@@ -1,5 +1,7 @@
 # Section-3-of-Data-Visualization-for-All-
 
+Link to the live site https://susie-brittany-1.github.io/DataViz-simple-page/
+
 My Leaflet map
 <iframe src="https://susie-brittany-1.github.io/leaflet-map-simple/"></iframe>
 
