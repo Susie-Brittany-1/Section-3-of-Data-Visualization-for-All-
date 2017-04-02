@@ -9,7 +9,7 @@ My Leaflet map
 My Highlights scatter chart
 <iframe src="https://susie-brittany-1.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe>
 
-
+EVALUATE
 
 1.  Leaflet map and title: Did the author embed an interactive Leaflet map with a new title?
   * Yes, the title in this map has changed from the original template
